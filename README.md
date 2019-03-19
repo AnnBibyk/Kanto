@@ -13,6 +13,7 @@ git clone https://github.com/AnnBibyk/Kanto.git
 cd Kanto
 xed .
 ```
+For running the simulator press Cmd + R
 
 ## Demo
 
