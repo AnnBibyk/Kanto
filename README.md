@@ -3,8 +3,7 @@ iOS Bootcamp Day05 at UNIT Factory (Ecole42)
 
 ## Description
 
-An app for those who planning to kill someone:) The logic is simple: press Next button, fill the Name and Cause of death sections, choose a date (notice you cannot choose a past date, as well as you cannot add a person without a name) and voilà! 
-The man is added and the only thing to do is sit and wait:)
+An app where you can look at location of places from the list (at the moment **only** from the list). On the map view you are able to switch the mode of it (Standart, Satalite, Hybrid) and also find you current position. 
 
 ## Usage
 
